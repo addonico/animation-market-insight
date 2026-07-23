@@ -1,0 +1,11 @@
+year,total_movies,animated_movies,non_animated_movies,animated_share_pct,source_url,definition
+2016,18697,334,18363,1.79,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2017,19193,381,18812,1.99,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2018,19470,398,19072,2.04,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2019,19407,474,18933,2.44,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2020,16629,370,16259,2.23,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2021,19188,461,18727,2.40,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2022,20930,418,20512,2.00,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2023,21083,465,20618,2.21,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2024,21297,454,20843,2.13,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
+2025,20991,496,20495,2.36,https://datasets.imdbws.com/title.basics.tsv.gz,"IMDb titleType=movie, isAdult=0, startYear in 2016-2025; animated movies have Animation in genres"
