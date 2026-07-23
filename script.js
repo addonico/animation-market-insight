@@ -1,5 +1,5 @@
-const DATA_URL = "data/rq2_top20_worldwide_2016_2025.csv";
-const MARKET_DATA_URL = "data/imdb_market_animation_share_2016_2025.csv";
+const DATA_URL = "data/processed/rq2_top20_worldwide_2016_2025.csv";
+const MARKET_DATA_URL = "data/processed/imdb_market_animation_share_2016_2025.csv";
 const MARKET_COLORS = { CN: "#7759f6", NA: "#111111", JP: "#e94f3a", FR: "#2248bd" };
 
 function parseCSV(text) {
