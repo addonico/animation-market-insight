@@ -1,0 +1,41 @@
+market_code,market,year,total_movies,animated_movies,animated_share_pct
+CN,Mainland China,2016,994,50,5.03
+CN,Mainland China,2017,1119,47,4.20
+CN,Mainland China,2018,1125,64,5.69
+CN,Mainland China,2019,1052,89,8.46
+CN,Mainland China,2020,754,37,4.91
+CN,Mainland China,2021,852,56,6.57
+CN,Mainland China,2022,977,59,6.04
+CN,Mainland China,2023,1199,73,6.09
+CN,Mainland China,2024,1024,66,6.45
+CN,Mainland China,2025,761,49,6.44
+NA,North America (US/Canada),2016,11056,224,2.03
+NA,North America (US/Canada),2017,11628,259,2.23
+NA,North America (US/Canada),2018,11908,276,2.32
+NA,North America (US/Canada),2019,12073,348,2.88
+NA,North America (US/Canada),2020,10535,281,2.67
+NA,North America (US/Canada),2021,11707,345,2.95
+NA,North America (US/Canada),2022,12606,276,2.19
+NA,North America (US/Canada),2023,12592,324,2.57
+NA,North America (US/Canada),2024,12772,320,2.51
+NA,North America (US/Canada),2025,12609,302,2.40
+JP,Japan,2016,2204,116,5.26
+JP,Japan,2017,2223,135,6.07
+JP,Japan,2018,2165,114,5.27
+JP,Japan,2019,2174,122,5.61
+JP,Japan,2020,1711,86,5.03
+JP,Japan,2021,1960,136,6.94
+JP,Japan,2022,2622,125,4.77
+JP,Japan,2023,3137,126,4.02
+JP,Japan,2024,2330,134,5.75
+JP,Japan,2025,891,101,11.34
+FR,France,2016,2132,77,3.61
+FR,France,2017,2209,97,4.39
+FR,France,2018,2362,88,3.73
+FR,France,2019,2642,103,3.90
+FR,France,2020,2134,73,3.42
+FR,France,2021,2284,114,4.99
+FR,France,2022,2874,105,3.65
+FR,France,2023,2757,99,3.59
+FR,France,2024,2612,118,4.52
+FR,France,2025,2208,102,4.62
